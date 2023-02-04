@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://datamattsson.tumblr.com/image/654069816914755584" width="512px"/>
+![image](https://user-images.githubusercontent.com/25623931/216752647-c7cefed3-22a7-4979-9a04-f08c9763979b.png)
 
 ---
 
